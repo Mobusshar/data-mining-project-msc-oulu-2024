@@ -1,6 +1,6 @@
 # Data Mining Project 2024
 
-This is my tasks for my master's course in Data Mining Project
+This is our tasks for my master's course in Data Mining Project
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/mobusshar/data-mining-project-msc-oulu-2024)
 ![GitHub last commit](https://img.shields.io/github/last-commit/mobusshar/data-mining-project-msc-oulu-2024)
